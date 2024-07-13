@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oybeklinux&label=Profile%20views&color=0e75b6&style=flat" alt="oybeklinux" /> </p>
 
-<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="400"/>
+
+<img src="https://i.pinimg.com/originals/1d/6b/c0/1d6bc03c3dd55bc1c59cec84edb81a46.gif" width="400"/>
 
 
 - 🌱 I’m currently learning **Data Science**
