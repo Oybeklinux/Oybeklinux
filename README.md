@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oybek</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a software developer with expertise in web development, backend systems, and information security.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a software developer and teacher on Python and Django</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oybeklinux&label=Profile%20views&color=0e75b6&style=flat" alt="oybeklinux" /> </p>
 
